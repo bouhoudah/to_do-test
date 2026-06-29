@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+*.egg-info/
+rapport_bandit.json
+rapport_locust.html
+rapport_tests.xml
